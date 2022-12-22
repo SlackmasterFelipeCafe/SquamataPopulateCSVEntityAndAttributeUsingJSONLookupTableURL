@@ -1,2 +1,2 @@
-# SquamataPopulateCSVEntityAndAttributeUsingJSONLookupTableURL_V1-0
+# SquamataPopulateCSVEntityAndAttributeUsingJSONLookupTableURL
 Notebook used to create Entity Attributes for EMRI Geophysical Data Releases
