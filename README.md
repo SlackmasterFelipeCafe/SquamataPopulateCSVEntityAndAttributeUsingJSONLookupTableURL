@@ -1,4 +1,4 @@
-#Squamata Populate CSV Entity And Attribute Using JSON Lookup-Table URL
+# Squamata Populate CSV Entity And Attribute Using JSON Lookup-Table URL
 
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
