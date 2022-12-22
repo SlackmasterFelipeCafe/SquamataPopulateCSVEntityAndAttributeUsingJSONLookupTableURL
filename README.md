@@ -1,4 +1,6 @@
-# SquamataPopulateCSVEntityAndAttributeUsingJSONLookupTableURL
+# Squamata
+
+PopulateCSVEntityAndAttributeUsingJSONLookupTableURL
 Notebook used to create Entity Attributes for an EMRI Geophysical Data Releases
 
 ## Launch this notebook in Binder using the link below to try it for yourself.
