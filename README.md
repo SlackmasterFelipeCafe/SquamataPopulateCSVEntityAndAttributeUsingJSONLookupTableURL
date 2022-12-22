@@ -1,7 +1,6 @@
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
 **SquamataPopulateCSVEntityAndAttributeUsingJSONLookupTableURL** is a Jupyter notebook used to create Entity Attributes for an EMRI Geophysical Data Releases.
-PopulateCSVEntityAndAttributeUsingJSONLookupTableURL
 
 ## Launch this notebook in Binder using the link below to try it for yourself.
 
